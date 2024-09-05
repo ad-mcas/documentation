@@ -6,4 +6,5 @@ description: >-
 
 # Bienvenue
 
-(test synchro avec github)
+(test synchro gitbook -> github)
+(test syncgro github -> gitbook)
