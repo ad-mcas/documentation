@@ -6,5 +6,3 @@ description: >-
 
 # Bienvenue
 
-(test synchro gitbook -> github)
-(test synchro github -> gitbook)
