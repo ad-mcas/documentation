@@ -2,8 +2,8 @@
 
 Normes et standards sur :
 
-* [Application cloud native](cloud-native.md)
-* [Intégration continue (CI)](CI.md)
-* [Déploiement continu (CD)](CD.md)
-* [Observabilité](observabilite.md)
-* [Sécurité](securite.md)
+- [Application cloud native](DevSecOps/cloud-native.md)
+- [Intégration continue (CI)](DevSecOps/CI.md)
+- [Déploiement continu (CD)](DevSecOps/CD.md)
+- [Observabilité](DevSecOps/observabilite.md)
+- [Sécurité](DevSecOps/securite.md)
