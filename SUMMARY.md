@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Bienvenue](README.md)
-- [DevSecOps](DevSecOps/README.md)
+- DevSecOps
   - [Application cloud native](DevSecOps/cloud-native.md)
   - [Intégration continue (CI)](DevSecOps/CI.md)
   - [Déploiement continu (CD)](DevSecOps/CD.md)
