@@ -1,7 +1,7 @@
 ---
 description: >-
-  Ce comité produit est pour le moment en version "bêta" et est donc susceptible
-  d'évoluer d'ici le 1er janvier 2025
+  Ce comité produit est en version "bêta" et est donc susceptible d'évoluer
+  d'ici le 1er janvier 2025
 ---
 
 # Comité produit (bêta)
