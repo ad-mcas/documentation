@@ -1,6 +1,6 @@
 # Application cloud native
 
-Il s'agit d'une application qui suit un certain nombre de principes et prérequis afin de pouvoir être déployé dans le cloud.
+Il s'agit d'une application qui suit un certain nombre de principes et prérequis afin de pouvoir être déployée dans le cloud.
 
 - [12-factor app](https://12factor.net/fr/)
 - [15 factors](https://developer.ibm.com/articles/15-factor-applications/#the-additional-factors-and-why-they-are-important1)
