@@ -2,8 +2,8 @@
 
 * [Bienvenue](README.md)
   * [A faire](readme/a-faire.md)
-  * [Comité produit (bêta)](readme/comite-produit-beta.md)
-  * [Processus "phase-gate"](readme/processus-phase-gate.md)
+  * [Pourquoi cette démarche](readme/pourquoi-cette-demarche.md)
+  * [Nouveau cadre organisationnel](readme/comite-produit-beta.md)
   * [Cycle de vie produit](readme/cycle-de-vie-produit.md)
   * [Catalogue de standards et de communs](readme/catalogue-de-standards-et-de-communs.md)
 * [DevSecOps](DevSecOps/README.md)
