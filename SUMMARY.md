@@ -11,3 +11,8 @@
   * [Déploiement continu (CD)](DevSecOps/CD.md)
   * [Observabilité](DevSecOps/observabilite.md)
   * [Sécurité](DevSecOps/securite.md)
+*[Design](Design/README.md)
+  * [Processus de design](Design/Processus%20de%20design.md)
+  * [Recherche Utilisateur](Design/Recherche-utilisateur.md)
+  * [Accessibilité](Design/Accessibilite.md)
+
