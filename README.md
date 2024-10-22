@@ -4,9 +4,11 @@ icon: face-smiling-hands
 
 # Bienvenue
 
-Un ensemble de ressources destiné aux agents de la sous-direction des projets (produits) et services numériques de la direction du numérique des ministères sociaux.&#x20;
+Voici un ensemble de ressources destiné aux agents de la sous-direction des projets (produits) et services numériques de la direction du numérique des ministères sociaux.&#x20;
 
-Ceci est l'expérimentation de la mise en place d'un nouveau cadre organisationnel.&#x20;
+Ceci est l'expérimentation de la mise en place d'un nouveau cadre organisationnel.
+
+<mark style="background-color:yellow;">Ce document est ouvert et accessible à toutes et tous, par design. Il ne contient pas d'informations confidentielles. S'il peut inspirer d'autres organisations, ou bien donner envie à des personnes de nous rejoindre, alors tant mieux. 💛</mark>&#x20;
 
 ***
 
