@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Bienvenue](README.md)
-  * [TODO](readme/todo.md)
+  * [A faire](readme/a-faire.md)
   * [Comité produit (bêta)](readme/comite-produit-beta.md)
   * [Processus "phase-gate"](readme/processus-phase-gate.md)
   * [Cycle de vie produit](readme/cycle-de-vie-produit.md)
