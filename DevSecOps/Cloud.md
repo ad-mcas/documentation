@@ -23,8 +23,8 @@ Plusieurs typologies de besoins, nécessitant des offres d’hébergement approp
 
 Pour répondre à ces typologies, 3 offres ont été identifiées :  
 - Cloud générique : qui vise à héberger toute application sans contrainte réglementaire spécifique
-- Cloud HDS : qui vise à héberger les applications manipulant des données de santé et nécessitant une [certification HDS] (https://esante.gouv.fr/produits-services/hds) sur l'hébergement et l'infogérance
-- Cloud de confiance : qui vise à héberger les applications les plus sensibles, y compris celles contenant des données de santé sensibles, nécessitant une qualification [SecNumCloud par l'ANSSI] (https://cyber.gouv.fr/secnumcloud-pour-les-fournisseurs-de-services-cloud) 
+- Cloud HDS : qui vise à héberger les applications manipulant des données de santé et nécessitant une [certification HDS](https://esante.gouv.fr/produits-services/hds) sur l'hébergement et l'infogérance
+- Cloud de confiance : qui vise à héberger les applications les plus sensibles, y compris celles contenant des données de santé sensibles, nécessitant une qualification [SecNumCloud par l'ANSSI](https://cyber.gouv.fr/secnumcloud-pour-les-fournisseurs-de-services-cloud) 
 
 > [!TIP]
 > Quels sont les critères discriminants qui définissent les données d’une sensibilité particulière ?
