@@ -8,7 +8,7 @@ L'application doit utiliser Sentry ou une solution équivalente.
 
 L'application doit utiliser une solution de traces pour suivre les performances (APM: application performance management).
 
-La solution préconisée est Sentry
+La solution peut être : Sentry, Elastic APM ou Tempo via Grafana.
 
 ## Logs
 
