@@ -25,5 +25,5 @@ Nous souhaitons donc expérimenter avec la mise en place d'un nouveau cadre orga
 1. Assurer la cohérence globale
    1. Création du [**comité produit (bêta)**](comite-produit-beta.md) qui se réunit toutes les semaines pour passer en revue les nouveaux projets, refontes, et petit à petit des projets où il existe une opportunité de pivoter&#x20;
    2. Publication de **normes et standards** (ici même) afin de guider et d'harmoniser la conception des produits et services&#x20;
-2. Construire un [**catalogue de standards et de communs numériques**](broken-reference) et ainsi identifier les points de mutualisation entre différents besoins ou services (librairies, plateformes, référentiels)
-3. **Accompagner les équipes** en continu pour offrir un appui technique, d'architecture, de devops, de data, de design, d'accessibilité, de recherche utilisateur
+2. Construire un **catalogue de standards et de communs numériques** et ainsi identifier les points de mutualisation entre différents besoins ou services (librairies, plateformes, référentiels)
+3. [**Accompagner les équipes**](https://msociauxfr.sharepoint.com/teams/ProductTeams-DevDesignAccessibilitRechercheutilisateurCoachi/SitePages/Accueil.aspx) en continu pour offrir un appui technique, d'architecture, de devops, de data, de design, d'accessibilité, de recherche utilisateur
