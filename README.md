@@ -24,7 +24,7 @@ Vous êtes bienvenus pour contribuer à cette documentation, proposer de nouvell
 1. [Pourquoi cette démarche](introduction/pourquoi-cette-demarche.md)
 2. [Nouveau cadre organisationnel](introduction/comite-produit-beta.md)
 3. [La checklist](la-checklist.md)
-4. Je suis chef de projet/produit, que dois-je faire ?
+4. [Je suis chef de projet/produit](introduction/je-suis-chef.fe-de-produit-projet.md)
 
 
 
