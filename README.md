@@ -1,8 +1,9 @@
 ---
 icon: face-smiling-hands
+description: Bienvenue !
 ---
 
-# Bienvenue
+# Introduction
 
 Voici un ensemble de ressources destiné aux agents de la sous-direction des projets (produits) et services numériques de la direction du numérique des ministères sociaux.&#x20;
 
@@ -22,7 +23,8 @@ Vous êtes bienvenus pour contribuer à cette documentation, proposer de nouvell
 
 1. [Pourquoi cette démarche](introduction/pourquoi-cette-demarche.md)
 2. [Nouveau cadre organisationnel](introduction/comite-produit-beta.md)
-3. Je suis chef de projet/produit, que dois-je faire ?
+3. [La checklist](la-checklist.md)
+4. Je suis chef de projet/produit, que dois-je faire ?
 
 
 

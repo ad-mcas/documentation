@@ -1,5 +1,7 @@
 # Cycle de vie produit
 
+Les produits/projets doivent suivre un cycle de vie standard, incluant des étapes de validation par le comité​ produit.&#x20;
+
 Les phases du cycle de vie produit sont les suivantes :&#x20;
 
 1. **POC** (preuve de concept) pour valider une idée ou la faisabilité technique d'une implémentation&#x20;
