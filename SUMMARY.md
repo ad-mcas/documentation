@@ -1,11 +1,11 @@
 # Table of contents
 
 * [Bienvenue](README.md)
-  * [A faire](readme/a-faire.md)
-  * [Pourquoi cette démarche](readme/pourquoi-cette-demarche.md)
-  * [Nouveau cadre organisationnel](readme/comite-produit-beta.md)
-  * [Cycle de vie produit](readme/cycle-de-vie-produit.md)
-  * [Catalogue de standards et de communs](readme/catalogue-de-standards-et-de-communs.md)
+  * [A faire](introduction/a-faire.md)
+  * [Pourquoi cette démarche](introduction/pourquoi-cette-demarche.md)
+  * [Nouveau cadre organisationnel](introduction/comite-produit-beta.md)
+  * [Cycle de vie produit](introduction/cycle-de-vie-produit.md)
+  * [Catalogue de standards et de communs](introduction/catalogue-de-standards-et-de-communs.md)
 * [Développement](Developpement/README.md)
   * [Application cloud native](Developpement/cloud-native.md)
 * [Hébergement](Hebergement/README.md)

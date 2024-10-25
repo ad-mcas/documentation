@@ -20,8 +20,8 @@ Vous êtes bienvenus pour contribuer à cette documentation, proposer de nouvell
 
 ## Table des matières
 
-1. [Pourquoi cette démarche](readme/pourquoi-cette-demarche.md)
-2. [Nouveau cadre organisationnel](readme/comite-produit-beta.md)
+1. [Pourquoi cette démarche](introduction/pourquoi-cette-demarche.md)
+2. [Nouveau cadre organisationnel](introduction/comite-produit-beta.md)
 3. Je suis chef de projet/produit, que dois-je faire ?
 
 
