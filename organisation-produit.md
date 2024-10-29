@@ -25,7 +25,7 @@ Exemples d’indicateurs d’impact :
 
 * Satisfaction utilisateur : Évaluer les retours d’expérience via des enquêtes et feedbacks utilisateurs.
 * Efficacité opérationnelle : Mesurer la réduction des délais, des erreurs ou l’optimisation des processus métiers.
-* Économies réalisées : Evaluer les gains financiers, notamment via l'utilisation de communs numériques et la réduction des doublons.
+* Économies réalisées : Evaluer les gains financiers, notamment via l'utilisation de [communs numériques](/communs-numeriques.md) et la réduction des doublons.
 
 Les KPI permettent d’adapter le produit aux besoins réels des utilisateurs et d’ajuster la stratégie en fonction des résultats concrets.
 
