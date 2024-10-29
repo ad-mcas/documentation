@@ -31,6 +31,7 @@ Les KPI permettent d’adapter le produit aux besoins réels des utilisateurs et
 
 {% hint style="info" %}
 **Les objectifs** définissent ce que l’on souhaite atteindre avec le produit et représentent une ambition ou un résultat qualitatif précis (par exemple : améliorer l’expérience utilisateur, réduire le temps de traitement d’une tâche).
+
 **Les indicateurs (ou KPI)**, quant à eux, mesurent concrètement l’avancement vers ces objectifs et fournissent des données quantitatives permettant d’évaluer l’impact du produit (par exemple : augmentation de 20% de la satisfaction utilisateur, réduction de 30% du temps de traitement).
 {% endhint %}
 
