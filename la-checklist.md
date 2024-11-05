@@ -15,12 +15,18 @@ Tous nos produits doivent suivre ces exigences :
   * [ ] publication du code source
   * [ ] mise en place de solution analytique (Matomo)
   * [ ] pratiques de dev : revues de code, tests
+  * [ ] application cloud native
 * [ ] Design et accessibilité
   * [ ] hébergement des designs sur Figma
 * [ ] Données
   * [ ] publication de données sur data.gouv.fr
 * [ ] Hébergement
-  * [ ] Cloud first + CI/CD
+  * [ ] Cloud first
+* [ ] DevSecOps
+  * [ ] intégration continue ([détails](DevSecOps/CI.md))
+  * [ ] déploiement continu ([détails](DevSecOps/CD.md))
+  * [ ] observabilité ([détails](DevSecOps/observabilite.md))
+  * [ ] sécurité ([détails](DevSecOps/securite.md))
 * [ ] Respect des référentiels
   * [ ] audit d'accessibilité (cible conformité au RGAA = 100%)
   * [ ] publication AIPD (RGPD)

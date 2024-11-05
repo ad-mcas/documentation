@@ -1,13 +1,23 @@
 # Sécurité
 
-## Gestion des secrets en local
+## Gestion des secrets
 
-Attention de ne pas committer des secrets non chiffrés. Utiliser par ex l'outil talisman et un pre-commit hook git.
+### Checklist
 
-## Utiliser les outils proposés pour les projets open source
+- [ ] utiliser des variables d'environnement pour configurer les secrets de l'application
+- [ ] ne pas inclure de secrets non chiffrés dans le code source
+- [ ] utiliser l'outil talisman (ou équivalent) dans un pre-commit hook git
+- [ ] ne pas inclure de secrets non chiffrés dans les images docker
+  - par ex : le token Sentry pour pousser les source maps 
+- [ ] ne pas afficher les secrets dans les logs ni les envoyer sur sentry
+- [ ] utiliser les outils à disposition pour les projets open source
+  - ex : GitGuardian
 
-GitGuardian, Socket security, etc.
 
 ## Anonymisation des données
 
-A recharger en dev/preprod, et pour calculer des KPI.
+### Checklist
+
+- [ ] générer un dump anonymisé de la DB 
+  - pour recharger en environnement d'intégration/preprod
+  - pour calculer des KPI
