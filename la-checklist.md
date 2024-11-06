@@ -21,7 +21,7 @@ Tous nos produits doivent suivre ces exigences :
 * [ ] Données
   * [ ] publication de données sur data.gouv.fr
 * [ ] Hébergement
-  * [ ] Cloud first
+  * [ ] Cloud first ([détails](Hebergement/Cloud.md))
 * [ ] DevSecOps
   * [ ] intégration continue ([détails](DevSecOps/CI.md))
   * [ ] déploiement continu ([détails](DevSecOps/CD.md))
