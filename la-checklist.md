@@ -8,8 +8,9 @@ Tous nos produits doivent suivre ces exigences :
 
 * [ ] Processus
   * [ ] passage par le comité produit (validation des choix techniques et d'architecture)
+  * [ ] identification et suivi des indicateurs de réussite
   * [ ] respect du cycle de vie du produit
-  * [ ] communs numériques : évaluer les opportunités pour chaque produit ou service&#x20;
+  * [ ] communs numériques : évaluer les opportunités pour chaque produit ou service
 * [ ] Code
   * [ ] respect du cadre de cohérence technique (en cours de rédaction)
   * [ ] publication du code source
@@ -32,4 +33,3 @@ Tous nos produits doivent suivre ces exigences :
   * [ ] publication AIPD (RGPD)
   * [ ] homologation de sécurité (RGS)
 *
-
