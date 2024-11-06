@@ -13,8 +13,9 @@ Tous nos produits doivent suivre ces exigences :
   * [ ] communs numériques : évaluer les opportunités pour chaque produit ou service
 * [ ] Code
   * [ ] respect du cadre de cohérence technique (en cours de rédaction)
-  * [ ] publication du code source
+  * [ ] publication du code source (lien footer)
   * [ ] mise en place de solution analytique (Matomo)
+  * [ ] publication des analytiques (lien footer)
   * [ ] pratiques de dev : revues de code, tests
   * [ ] application cloud native
 * [ ] Design et accessibilité
