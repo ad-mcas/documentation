@@ -14,14 +14,14 @@ Tous nos produits doivent suivre ces exigences :
 * [ ] Code
   * [ ] respect du cadre de cohérence technique (en cours de rédaction)
   * [ ] publication du code source (lien footer)
-  * [ ] mise en place de solution analytique (Matomo)
-  * [ ] publication des analytiques (lien footer)
   * [ ] pratiques de dev : revues de code, tests
   * [ ] application cloud native
 * [ ] Design et accessibilité
   * [ ] hébergement des designs sur Figma
 * [ ] Données
   * [ ] publication de données sur data.gouv.fr
+  * [ ] mise en place de solution analytique (Matomo)
+  * [ ] publication des analytiques (lien footer)
 * [ ] Hébergement
   * [ ] Cloud first ([détails](Hebergement/Cloud.md))
 * [ ] DevSecOps
