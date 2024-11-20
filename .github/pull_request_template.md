@@ -1,5 +1,7 @@
 # Pour ne rien oublier
 
+<!-- Vous pouvez supprimer les éléments inutiles -->
+
 - S'il s'agit d'un ajout d'une **nouvelle section** :
   - [ ] Est-ce que le fichier `SUMMARY.md` a bien été mis à jour avec votre nouvelle section ?
     - _Pour afficher votre section dans la table des matières_
@@ -12,5 +14,7 @@
 - S'il s'agit d'un ajout d'une **nouvelle page sans nouvelle section**
   - [ ] Est-ce que le fichier `SUMMARY.md` a bien été mis à jour ?
     - _Pour que votre page soit accessible_
+
+- [ ] Je confirme que ce que j'ai ajouté n'introduit aucun problème de sécurité
 
 ---
