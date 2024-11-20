@@ -17,7 +17,11 @@ Tous nos produits doivent suivre ces exigences :
   * [ ] pratiques de dev : revues de code, tests
   * [ ] application cloud native
 * [ ] Accessibilité
+  * [ ] 100% RGAA
 * [ ] Design et Recherche Utilisateur
+  * [ ] synthèse de l'ensemble des problèmes rencontrés par les utilisateurs sur le produits (sur le périmètre de recherche défini)
+  * [ ] profils utilisateurs (analyse des tâches et de l'activité)
+  * [ ] recommandations et pistes de solutions permettant d'améliorer l'utilisabilité globale
   * [ ] hébergement des designs sur le Figma de la DNUM
   * [ ] respect du cadre de cohérence de design (en cours de rédaction)
 * [ ] Données
