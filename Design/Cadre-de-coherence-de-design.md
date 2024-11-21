@@ -22,7 +22,7 @@ Ce cadre de cohérence de design garantit que chaque projet respecte des princip
 - [ ] Documentation à jour dans les espaces partagés (Doc de design, Figma, Figjam, etc.).
 
 {% hint style="info" %}
-**Astuce :** Les designers sont en charge de valider chaque étape avec vous et l'équipe afin de garantir une collaboration fluide et un produit final de qualité !
+**Astuce :** Les designers sont en charge de mener et de valider chaque étape avec vous et l'équipe afin de garantir une collaboration fluide et un produit final de qualité !
 {% endhint %}
 
 
@@ -38,6 +38,13 @@ Ce guide rassemble les étapes essentielles à suivre, de la compréhension des 
 - Centralise tous les éléments du processus de design.
 - Sert de base unique pour les phases de collaboration et de tests.
 - Doit inclure : maquettes, prototypes, annotations d’accessibilité, documentation visuelle.
+
+{% hint style="info" %}
+**Astuce :** Demandez à votre designer d'utiliser les modèles créés par la DNUM :
+* Conception, maquettage, prototypage :[Modèle de fichier Figma](https://www.figma.com/design/XMBYkb0Yfgf5Xwus7Qqi4F/Mod%C3%A8le-Figma?m=auto&t=4yobmo0a54wCxCct-6)
+* Ateliers, diagrammes, idéation : [Modèle de fichier Figjam](https://www.figma.com/board/etgOPbk0hSxLYYWNM6XAJ0/Mod%C3%A8le---Fiichier-Figjam?t=irWaNRhEZf6oeXR3-6)
+* Autres modèles utiles : [Modèle d'atelier RACI](https://www.figma.com/board/s9HzWSaD1LE7x84QUlN0EJ/Mod%C3%A8le---Atelier-RACI?t=irWaNRhEZf6oeXR3-6), [Modèle d'atelier vision](https://www.figma.com/board/ti4nGxJl3va5N67vhARvQJ/Mod%C3%A8le---Atelier-vision-et-besoins-produit?t=irWaNRhEZf6oeXR3-6), [Librairie de composants Sharepoint](https://www.figma.com/design/G6JxOLI7zE4BHcmwvMZDSH/SharePoint-Web-UI-Kit-(Community)?m=auto&t=irWaNRhEZf6oeXR3-6)
+{% endhint %}
 
 ---
 
@@ -74,9 +81,12 @@ Ce guide rassemble les étapes essentielles à suivre, de la compréhension des 
 
 ---
 
-### 6. **100% DSFR**
-- Utiliser une librairie DSFR existante pour tous les composants UI.
+### 6. **100% DSFR, le système de design de l'état français**
+Le Design System est obligatoire pour les sites communiquant au nom de l'État (en .gouv.fr).
+- Utilisez la dernière librairie [Figma DSFR](https://www.figma.com/@gouvfr)
+- Validez les usages des composants en consultant le [site DSFR](https://www.systeme-de-design.gouv.fr/composants-et-modeles).
 - En cas de création de nouveaux composants, s'assurer qu’ils respectent les standards UX/UI du DSFR.
+- Discutez avec les dev sur le portage utilisé (Angular, React, Vue, etc) et demandez l'accès à la documentation de la librairie de portage utilisée
 
 ---
 
@@ -84,6 +94,12 @@ Ce guide rassemble les étapes essentielles à suivre, de la compréhension des 
 - Co-créer au moins 3 idées d’UX/UI différentes pour les parcours principaux.
 - Encourager des approches innovantes et collaboratives pour répondre aux besoins identifiés.
 - Si possible, inviter toutes les parties prenantes qui auront un impact sur le produit fini (responsable métier, responsable produit, expert recherche utilisateur, développeurs, etc.)
+
+{% hint style="info" %}
+**Astuce :** Intégrez la simplification du langage à ce stade afin de pouvoir tester vos hypothèses avec vos utilisateurs. Ressource utile : [Sensibiliser et s’exercer aux méthodes de simplification des documents](
+https://www.modernisation.gouv.fr/outils-et-formations/simplifier-les-documents-administratifs#ConsidererUsager) 
+{% endhint %}
+
 
 ---
 
