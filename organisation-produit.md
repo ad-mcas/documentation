@@ -42,7 +42,7 @@ Fixer des indicateurs permet d’aligner toutes les parties prenantes sur la str
 
 <details>
 
-<summary>Les indicateurs de succès (ou KPIs)</summary>
+<summary>*Les indicateurs de succès (ou KPIs)*</summary>
 
 Ces indicateurs mesurent si un produit atteint ses objectifs stratégiques. Ils traduisent la vision produit en résultats concrets et mesurables.
 
