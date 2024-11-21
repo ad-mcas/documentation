@@ -9,22 +9,56 @@ Cette approche favorise l’amélioration continue, facilite la prise de décisi
 
 La vision produit définit un cap clair, aligné avec les priorités des ministères sociaux et les besoins des usagers, qu’il s’agisse des citoyens, agents publics ou métiers. Elle permet de fixer des objectifs clairs et concrets.
 
-Pourquoi c’est important ?
+**Pourquoi c’est important ?**
 Elle donne une direction partagée et cohérente assurant un alignement d'équipe et garantissant que chaque produit contribue aux objectifs de transformation numérique des ministères.
 
+{% hint style="info" %}
 Bonnes pratiques :
 
 * Co-construire une vision inspirante avec les parties prenantes.
 * Définir des objectifs clairs et conpréhensibles par tout le monde
 
+---- 
+
+Quelques pistes pour matérialiser cette vision : 
+
+- [ ] Une phrase qui clarifie la raison d’être du produit
+- [ ] Préciser qui sont les utilisateurs
+- [ ] Quels sont les besoins adressés
+- [ ] La solution et sa proposition de valeur : quel est son axe differenciant ?
+- [ ] Quel est l'impact attendu ?
+
+{% endhint %}
+
 ## Indicateurs d’impact 
 
-Les indicateurs d’impact mesurent les résultats du produit, au-delà de ses aspects techniques, et quantifient l’impact réel sur les usagers et les objectifs ministériels.
+**A quoi servent les indicateurs ?**
+Les indicateurs jouent un rôle central dans notre capacité à piloter nos produits efficacement.
+Fixer des indicateurs permet d’aligner toutes les parties prenantes sur la stratégie,  de prendre des décisions éclairées et de s’améliorer en continu. 
 
-Exemples d’indicateurs d’impact :
+> « On ne peut améliorer que ce que l’on mesure ».
+
+**Les différentes types d'indicateurs :**
+
+<details>
+
+<summary>Les indicateurs de succès (ou KPIs)</summary>
+
+Ces indicateurs mesurent si un produit atteint ses objectifs stratégiques. Ils traduisent la vision produit en résultats concrets et mesurables.
+
+* Taux d’usage
+* Audience
+* NPS (Net Promoter Score) ou note de sat pour mesurer la satisfaction client.
+
+Les KPIs sont la réponse à une question clé : « Est-ce que notre produit atteint les résultats attendus ? »
+
+</details>
+
 
 * Satisfaction utilisateur : Évaluer les retours d’expérience via des enquêtes et feedbacks utilisateurs.
-* Efficacité opérationnelle : Mesurer la réduction des délais, des erreurs ou l’optimisation des processus métiers.
+* Efficacité opérationnelle : Mesurer la réduction des délais, des erreurs ou l’optimisation des processus métiers
+  * Ex : Réduction du délai d'instruction de dossiers par 2
+  * Ex : Réaliser la constitution d'un dossier en moins de 10 minutes 
 * Économies réalisées : Evaluer les gains financiers, notamment via l'utilisation de [communs numériques](/communs-numeriques.md) et la réduction des doublons.
 
 Les KPI permettent d’adapter le produit aux besoins réels des utilisateurs et d’ajuster la stratégie en fonction des résultats concrets.
