@@ -130,34 +130,12 @@ Elle aide les équipes à prioriser les initiatives clés, à s’aligner sur de
 Une clarification des rôles et responsabilités permet d’assurer une coordination efficace, d’éviter les zones de flou et de maximiser la collaboration entre les membres de l’équipe produit.  
 Chaque rôle apporte une expertise et un regard spécifique, contribuant à la réussite du produit.
 
-### Les principaux rôles dans une équipe produit
+### Lister l'ensemble des personnes impliquées dans l'organisation du produit 
 
-1. **Product Owner (PO)**  
-   Responsable de la vision du produit et de la priorisation des fonctionnalités. Le PO représente les besoins des utilisateurs et des parties prenantes.  
-   **Responsabilités :**
-   - Définir et maintenir la vision produit.
-   - Prioriser le backlog en fonction de la valeur utilisateur et métier.
-   - Faciliter la communication entre les équipes techniques, métiers et utilisateurs.
-
-2. **Scrum Master ou Coach Agile**  
-   Garant de l’efficacité des processus et du respect des méthodologies agiles.  
-   **Responsabilités :**
-   - Animer les cérémonies agiles (stand-ups, rétrospectives, etc.).
-   - Aider l’équipe à surmonter les obstacles opérationnels.
-   - Favoriser une amélioration continue dans l’équipe.
-
-3. **Équipe de développement**  
-   Composée de développeurs, designers, testeurs et autres experts techniques, l’équipe de développement transforme les idées en fonctionnalités concrètes.  
-   **Responsabilités :**
-   - Conception, développement et tests des solutions.
-   - Participation active aux estimations et planifications.
-   - Collaboration étroite avec le PO pour comprendre les besoins.
-
-4. **Stakeholders (Parties prenantes)**  
-   Les parties prenantes incluent les responsables métier, les usagers finaux et les partenaires externes.  
-   **Responsabilités :**
-   - Fournir des retours réguliers pour garantir que le produit répond aux besoins.
-   - Participer à des ateliers et aux phases de tests.
+* Les équipes au sein de la DNUM
+* Les équipes "métiers"
+* Les équipes prestataires
+* Les parties prenantes 
 
 ### Bonnes pratiques pour gérer les rôles
 - **Clarification des attentes** : Définir clairement les responsabilités de chaque rôle dès le début du projet.
