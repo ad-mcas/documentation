@@ -42,7 +42,7 @@ Fixer des indicateurs permet d’aligner toutes les parties prenantes sur la str
 
 <details>
 
-<summary>*Les indicateurs de succès (ou KPIs)*</summary>
+<summary>**Les indicateurs de succès (ou KPIs)**</summary>
 
 Ces indicateurs mesurent si un produit atteint ses objectifs stratégiques. Ils traduisent la vision produit en résultats concrets et mesurables.
 
@@ -52,6 +52,9 @@ Exemples :
 * NPS (Net Promoter Score) ou note de sat pour mesurer la satisfaction client.
 
 Les KPIs sont la réponse à une question clé : « Est-ce que notre produit atteint les résultats attendus ? »
+
+
+<details>
 
 <summary>*Les indicateurs d’impact*</summary>
 
@@ -65,6 +68,9 @@ Exemples :
 * Efficacité opérationnelle : Mesurer la réduction des délais, des erreurs ou l’optimisation des processus métiers
 
 Ces indicateurs d’impact relient directement vos décisions produit à des résultats tangibles.
+
+</details>
+<details>
 
 <summary>**Les indicateurs de direction (progrès/tendance)**</summary>
 
