@@ -46,20 +46,34 @@ Fixer des indicateurs permet d’aligner toutes les parties prenantes sur la str
 
 Ces indicateurs mesurent si un produit atteint ses objectifs stratégiques. Ils traduisent la vision produit en résultats concrets et mesurables.
 
+Exemples : 
 * Taux d’usage
 * Audience
 * NPS (Net Promoter Score) ou note de sat pour mesurer la satisfaction client.
 
 Les KPIs sont la réponse à une question clé : « Est-ce que notre produit atteint les résultats attendus ? »
 
+<summary>*Les indicateurs d’impact*</summary>
+
+Ces indicateurs servent à évaluer les effets des initiatives produit sur les utilisateurs ou sur l’organisation. Ils permettent de valider que vos actions apportent une valeur réelle.
+
+Exemples : 
+* Économies réalisées : évaluer les gains financiers, notamment via l'utilisation de [communs numériques](/communs-numeriques.md) et la réduction des doublons.
+* Augmentation du taux de dématérialisation
+  * Réduction du délai d'instruction de dossiers par 2
+  * Réaliser la constitution d'un dossier en moins de 10 minutes
+* Efficacité opérationnelle : Mesurer la réduction des délais, des erreurs ou l’optimisation des processus métiers
+
+Ces indicateurs d’impact relient directement vos décisions produit à des résultats tangibles.
+
+<summary>**Les indicateurs de direction (progrès/tendance)**</summary>
+
+Ce sont des indicateurs qui permettent de vérifier que l'on va dans la bonne direction. Ils agissent comme des garde-fous et des signaux d'alerte pour garantir que vous progressez vers vos objectifs.
+
+Exemple : une durée de session sur un site de consultation est un indicateur pertinent pour mesurer l'intérêt des utilisateurs pour le contenu proposer.
+
 </details>
 
-
-* Satisfaction utilisateur : Évaluer les retours d’expérience via des enquêtes et feedbacks utilisateurs.
-* Efficacité opérationnelle : Mesurer la réduction des délais, des erreurs ou l’optimisation des processus métiers
-  * Ex : Réduction du délai d'instruction de dossiers par 2
-  * Ex : Réaliser la constitution d'un dossier en moins de 10 minutes 
-* Économies réalisées : Evaluer les gains financiers, notamment via l'utilisation de [communs numériques](/communs-numeriques.md) et la réduction des doublons.
 
 Les KPI permettent d’adapter le produit aux besoins réels des utilisateurs et d’ajuster la stratégie en fonction des résultats concrets.
 
