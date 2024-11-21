@@ -8,10 +8,12 @@ Tous nos produits doivent suivre ces exigences :
 
 <details>
 <summary><strong>Processus</strong></summary>
+
 * [ ] passage par le comité produit (validation des choix techniques et d'architecture)
 * [ ] identification et suivi des indicateurs de réussite
 * [ ] respect du cycle de vie du produit
 * [ ] communs numériques : évaluer les opportunités pour chaque produit ou service
+
 </details>
 
 
