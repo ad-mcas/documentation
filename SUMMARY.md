@@ -17,7 +17,7 @@
 * [Design](Design/README.MD)
   * [Processus général](<Design/Processus de design.md>)
   * [Recherche Utilisateur](Design/Recherche-utilisateur.md)
-  * [Cadre de cohérence de design](Design/Cadre-de-coherence-de-design)
+  * [Cadre de cohérence de design](Design/Cadre-de-coherence-de-design.md)
 * [Développement](Developpement/README.md)
   * [Application cloud native](Developpement/cloud-native.md)
 * [DevSecOps](DevSecOps/README.md)
