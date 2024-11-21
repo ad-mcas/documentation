@@ -91,9 +91,9 @@ Le Design System est obligatoire pour les sites communiquant au nom de l'État (
 ---
 
 ### 7. **Idéation**
+L'idéation, ou recherche de solution aux besoins des utilisateurs, doit se faire avec toutes les parties prenantes qui ont un impact sur le produit fini (responsable métier, responsable produit, expert recherche utilisateur, développeurs, etc.).
 - Co-créer au moins 3 idées d’UX/UI différentes pour les parcours principaux.
 - Encourager des approches innovantes et collaboratives pour répondre aux besoins identifiés.
-- Si possible, inviter toutes les parties prenantes qui auront un impact sur le produit fini (responsable métier, responsable produit, expert recherche utilisateur, développeurs, etc.)
 
 {% hint style="info" %}
 **Astuce :** Intégrez la simplification du langage à ce stade afin de pouvoir tester vos hypothèses avec vos utilisateurs. Ressource utile : [Sensibiliser et s’exercer aux méthodes de simplification des documents](
@@ -139,6 +139,6 @@ https://www.modernisation.gouv.fr/outils-et-formations/simplifier-les-documents-
 ---
 
 ### 12. **Suivi et documentation continue**
-- Chaque étape de designdoit être documentée dans l’espace partagé (Doc design, Figma, Figjam, etc.).
+- Chaque étape de design doit être documentée dans l’espace partagé (Doc design, Figma, Figjam, etc.).
 - Encourager un feedback continu et des démos avec les dev pour ajuster les décisions de design.
 
