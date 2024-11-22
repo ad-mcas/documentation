@@ -46,9 +46,10 @@ Tous nos produits doivent suivre ces exigences :
 <details>
 <summary><strong>Design et Recherche Utilisateur</strong></summary>
 
-* [ ] synthèse de l'ensemble des problèmes rencontrés par les utilisateurs sur le produits (sur le périmètre de recherche défini)
-* [ ] profils utilisateurs (analyse des tâches et de l'activité)
-* [ ] recommandations et pistes de solutions permettant d'améliorer l'utilisabilité globale
+* [ ] Recherche Utilisateur
+  * [ ] Score d'utilisabilité (F-SUS) supérieur à 65 (≥B)
+  * [ ] Mise à disposition de la recherche exploratoire (entretiens+observation) dans le cas d'une refonte 
+  * [ ] Réalisation de tests utilisateurs réguliers en amélioration continue (cohorte de 10)
 * [ ] hébergement des designs sur le Figma de la DNUM
 * [ ] respect du cadre de cohérence de design (en cours de rédaction)
 
