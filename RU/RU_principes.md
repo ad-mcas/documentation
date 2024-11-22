@@ -11,4 +11,4 @@ La recherche utilisateur ne se limite pas à la participation de la création de
     - Simplification des tâches répétitives : en optimisant les parcours, les actions inutiles sont éliminées, permettant aux agents de se concentrer sur des missions à plus forte valeur ajoutée.
     - Diminution de la fatigue : une navigation fluide et des outils adaptés réduisent l’effort physique et mental nécessaire à l’exécution des tâches. 
     
-    Ces gains se traduisent directement par une amélioration de la qualité de vie au travail, tout en renforçant l’efficacité des missions.
+Ces gains se traduisent directement par une amélioration de la qualité de vie au travail, tout en renforçant l’efficacité des missions.
