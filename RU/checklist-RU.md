@@ -1,4 +1,4 @@
-# [ ] Score d’utilisabilité (F-SUS ≥65)
+## [ ] Score d’utilisabilité (F-SUS ≥65)
 Le F-SUS (French System Usability Scale) est une échelle normalisée permettant de mesurer l’utilisabilité perçue des interfaces numériques. Il s’appuie sur un questionnaire simple (7 questions fermées) rempli par les utilisateurs après un test de l’interface.
 
 **Pourquoi ?** : Un score élevé (≥65) indique que l’interface est fonctionnelle, intuitive et bien acceptée par les usagers du produit. Il constitue une norme reconnue internationalement pour évaluer la qualité de l’expérience utilisateur.
@@ -12,7 +12,7 @@ Le F-SUS (French System Usability Scale) est une échelle normalisée permettant
     - Intégrez des tests utilisateurs à chaque phase clé.
     - Analysez les résultats pour ajuster les parcours et fonctionnalités avec votre expert en Design.
 
-# [ ] Recherche exploratoire obligatoire
+## [ ] Recherche exploratoire obligatoire
 Étape clé dans les projets de refonte pour comprendre les besoins réels avant la conception.
 La recherche exploratoire est indispensable dans le cadre des refontes, car elle permet de comprendre en profondeur les besoins et les contextes d’usage avant toute phase de conception.
 
@@ -28,7 +28,7 @@ La recherche exploratoire est indispensable dans le cadre des refontes, car elle
 **Comment la mettre en œuvre ?**
 Contacter votre expert en RU afin de planifier la recherche exploratoire dans les premières phases du projet et mobiliser des équipes multidisciplinaires pour collecter et analyser les données.
 
-# [ ] Tests utilisateurs réguliers
+## [ ] Tests utilisateurs réguliers
 Les tests utilisateurs récurrents garantissent une amélioration continue des interfaces en intégrant les retours des usagers à chaque étape de développement.
 
 **Pourquoi les tests réguliers sont-ils indispensables ?**
