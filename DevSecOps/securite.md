@@ -6,7 +6,7 @@
 
 - [ ] utiliser des variables d'environnement pour configurer les secrets de l'application
 - [ ] ne pas inclure de secrets non chiffrés dans le code source
-- [ ] utiliser l'outil talisman (ou équivalent) dans un pre-commit hook git
+- [ ] utiliser l'outil gitleaks dans un pre-commit hook git
 - [ ] ne pas inclure de secrets non chiffrés dans les images docker
   - par ex : le token Sentry pour pousser les source maps 
 - [ ] ne pas afficher les secrets dans les logs ni les envoyer sur sentry
