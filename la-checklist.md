@@ -1,7 +1,3 @@
----
-description: En construction
----
-
 # La checklist
 
 {% hint style="warning" %}
