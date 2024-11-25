@@ -8,7 +8,6 @@
   * [Je suis chef.fe de produit/projet](introduction/je-suis-chef.fe-de-produit-projet.md)
 * [La checklist](la-checklist.md)
 * [Communs numériques](communs-numeriques.md)
-* [Organisation produit](organisation-produit.md)
 * [Organisation produit](organisation-produit/README.md)
   * [Principes](organisation-produit/principes.md) 
   * [Indicateurs](organisation-produit/indicateur.md)
