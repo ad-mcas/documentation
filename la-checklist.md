@@ -4,6 +4,11 @@ description: En construction
 
 # La checklist
 
+{% hint style="warning" %}
+**Warning hints** En construction
+{% endhint %}
+
+
 Tous nos produits doivent suivre ces exigences :
 
 <details>
