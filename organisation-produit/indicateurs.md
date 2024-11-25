@@ -70,7 +70,7 @@ Application dédiée à la gestion des processus électoraux, incluant l'inscrip
 </details>
 
 <details>
-<summary><strong📊 Tableau de bords</strong></summary>
+<summary><strong>📊 Tableau de bords</strong></summary>
 
 Application fournissant une interface visuelle pour visualiser et analyser des données clés et des indicateurs de performance à travers des graphiques, des rapports et des statistiques en temps réel.
 
