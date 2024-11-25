@@ -1,4 +1,4 @@
-# Organisation Produit
+# Organisation Produit - Principes
 
 La démarche produit et l’implémentation de ces pratiques répondent à un besoin de clarté, d’alignement et d’efficacité dans la conception et le suivi des produits numériques des ministères.
 
