@@ -5,7 +5,7 @@ description: En construction
 # La checklist
 
 {% hint style="warning" %}
-**Warning hints** En construction
+**En construction** 
 {% endhint %}
 
 
