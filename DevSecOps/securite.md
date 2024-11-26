@@ -21,3 +21,16 @@
 - [ ] générer un dump anonymisé de la DB 
   - pour recharger en environnement d'intégration/preprod
   - pour calculer des KPI
+
+## Confiance des commits
+
+### Checklist
+
+- [ ] signer l'intégralité des commits via des clés gpg / ssh / autre
+  - objectif : certifier l'auteur des commits
+
+## Authentification 2FA (github, gitlab ...)
+
+### Checklist
+
+- [ ] sécurisation des comptes via une méthode 2FA
